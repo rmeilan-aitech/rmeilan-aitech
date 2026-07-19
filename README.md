@@ -8,7 +8,7 @@ rmeilan-aitech
 
 <h3><code>$ cat activity.log</code></h3>
 
-<img src="heatmap.svg" width="860" alt="Heatmap de contribuciones">
+<img src="https://cdn.jsdelivr.net/gh/rmeilan-aitech/rmeilan-aitech@master/heatmap.svg" width="860" alt="Heatmap de contribuciones">
 
 <br>
 <br>
@@ -17,8 +17,8 @@ rmeilan-aitech
 
 <table>
 <tr>
-<td><img src="avi-ascii.svg" width="370" alt="Retrato ASCII"></td>
-<td><img src="info-card.svg" width="490" alt="Info card"></td>
+<td><img src="https://cdn.jsdelivr.net/gh/rmeilan-aitech/rmeilan-aitech@master/avi-ascii.svg" width="370" alt="Retrato ASCII"></td>
+<td><img src="https://cdn.jsdelivr.net/gh/rmeilan-aitech/rmeilan-aitech@master/info-card.svg" width="490" alt="Info card"></td>
 </tr>
 </table>
 
