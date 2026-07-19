@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100" width="200" height="100">
-<rect width="200" height="100" fill="#0d1117"/>
-<rect x="20" y="20" width="60" height="60" fill="#39d353"/>
-<text x="100" y="55" fill="#c9d1d9" font-family="monospace" font-size="16">STATIC TEST</text>
-</svg>
