@@ -24,6 +24,8 @@ rmeilan-aitech
 
 <br>
 
+<img src="test-static.svg" width="200" alt="Static test">
+
 <h3><code>$ tail -f README.md</code></h3>
 
 Este perfil se regenera solo cada día vía GitHub Actions.
