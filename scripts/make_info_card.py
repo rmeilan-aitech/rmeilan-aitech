@@ -38,7 +38,7 @@ MUTED = "#8b949e"
 
 def build_rows() -> list[tuple[str, str, str]]:
     """Devuelve tuplas (key_markup, value_markup, kind) para cada fila."""
-    rows = [("title", TITLE, "title")]
+    rows = [(TITLE, TITLE, "title")]
     rows.append(("sep", "-" * len(TITLE), "sep"))
     for key, value in FIELDS:
         rows.append((key, value, "field"))
